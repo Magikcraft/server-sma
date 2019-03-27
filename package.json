@@ -1,6 +1,6 @@
 {
 	"name": "@magikcraft/server",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Server utilities for SMA plugins",
 	"homepage": "https://www.magikcraft.io",
 	"author": {
